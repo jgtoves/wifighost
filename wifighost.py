@@ -5,7 +5,7 @@ import os
 
 # Baseline is the 'clear' room signal strength
 BASELINE = -40 
-SENSITIVITY = 5 # dBm drop to trigger 'Visual'
+SENSITIVITY = 2 # dBm drop to trigger 'Visual'
 
 def get_signal():
     try:
