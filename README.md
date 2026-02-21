@@ -1,5 +1,5 @@
 # wifighost
-A script to enable an android phone and an esp8266 to see through walls.
+A script to enable an android phone and an esp8266 (plugged in, no coding required here, for the wifi signal only) to see through walls.
 <br>
 • git clone https://github.com/jgtoves/wifighost
 <br> 
